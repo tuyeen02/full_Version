@@ -1,9 +1,17 @@
-How to install 
-    #system requirements
+HOW TO INSTALL
+
+#system requirements
+
     Node : LTS version
+
     PHP : >= v8.0.2
+
     Composer: >= v2.0.4
+    
     Laravel: 9
+
+#######
+
 Step 1: clone source code 
 
 Step 2: Open command in root directory & to install the composer 
@@ -20,4 +28,5 @@ Step 6: npm run watch
 Step 7 php artisan serve
 
 ########
+
 Link document:  https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/documentation/guide/#how-to-use-docs
