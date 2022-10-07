@@ -7,10 +7,10 @@ HOW TO INSTALL
     PHP : >= v8.0.2
 
     Composer: >= v2.0.4
-    
+
     Laravel: 9
 
-#######
+#Steps
 
 Step 1: clone source code 
 
@@ -27,6 +27,6 @@ Step 6: npm run watch
 
 Step 7 php artisan serve
 
-########
+#Link document:
 
-Link document:  https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/documentation/guide/#how-to-use-docs
+https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/documentation/guide/#how-to-use-docs
