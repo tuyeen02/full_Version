@@ -32,8 +32,8 @@ const router = new VueRouter({
     ...formsTable,
     ...uiElements,
     ...others,
-    ...test2
-    ...test,
+    ...test2,
+    ...test
     {
       path: '*',
       redirect: 'error-404',
