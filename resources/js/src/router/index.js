@@ -12,6 +12,8 @@ import chartsMaps from './routes/charts-maps'
 import formsTable from './routes/forms-tables'
 import others from './routes/others'
 import test2 from './routes/test2'
+import test from './routes/test'
+
 
 Vue.use(VueRouter)
 
@@ -31,6 +33,7 @@ const router = new VueRouter({
     ...uiElements,
     ...others,
     ...test2
+    ...test,
     {
       path: '*',
       redirect: 'error-404',
